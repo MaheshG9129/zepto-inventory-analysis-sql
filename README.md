@@ -17,6 +17,17 @@ A relational table named `zepto` was created to store product-level information 
 * Discounted Selling Price
 * Product Weight
 * Stock Status
+  ## Project Workflow
+
+Data Collection
+↓
+Data Cleaning
+↓
+Exploratory Analysis
+↓
+Business Insights
+↓
+Revenue & Inventory Analysis
 
 ## Data Cleaning Performed
 
